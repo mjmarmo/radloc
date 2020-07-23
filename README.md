@@ -10,3 +10,4 @@ Improvements:
 - Improve algorithm performance, reduce cost to allow for processing larger data files. (Rewrite in C++)
 - Creat UI for operator to interact with data visualization.
 - Decentralized code, add flexiblitity. 
+- Remove redundant code. 
